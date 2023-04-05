@@ -1,0 +1,15 @@
+C:\Users\skubjana\source\repos\StringCount\bin\Debug\net6.0\StringCount.exe
+C:\Users\skubjana\source\repos\StringCount\bin\Debug\net6.0\StringCount.deps.json
+C:\Users\skubjana\source\repos\StringCount\bin\Debug\net6.0\StringCount.runtimeconfig.json
+C:\Users\skubjana\source\repos\StringCount\bin\Debug\net6.0\StringCount.dll
+C:\Users\skubjana\source\repos\StringCount\bin\Debug\net6.0\StringCount.pdb
+C:\Users\skubjana\source\repos\StringCount\obj\Debug\net6.0\StringCount.csproj.AssemblyReference.cache
+C:\Users\skubjana\source\repos\StringCount\obj\Debug\net6.0\StringCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skubjana\source\repos\StringCount\obj\Debug\net6.0\StringCount.AssemblyInfoInputs.cache
+C:\Users\skubjana\source\repos\StringCount\obj\Debug\net6.0\StringCount.AssemblyInfo.cs
+C:\Users\skubjana\source\repos\StringCount\obj\Debug\net6.0\StringCount.csproj.CoreCompileInputs.cache
+C:\Users\skubjana\source\repos\StringCount\obj\Debug\net6.0\StringCount.dll
+C:\Users\skubjana\source\repos\StringCount\obj\Debug\net6.0\refint\StringCount.dll
+C:\Users\skubjana\source\repos\StringCount\obj\Debug\net6.0\StringCount.pdb
+C:\Users\skubjana\source\repos\StringCount\obj\Debug\net6.0\StringCount.genruntimeconfig.cache
+C:\Users\skubjana\source\repos\StringCount\obj\Debug\net6.0\ref\StringCount.dll
